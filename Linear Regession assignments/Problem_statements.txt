@@ -1,0 +1,13 @@
+1) Delivery_time -> Predict delivery time using sorting time 
+2) Salary_hike -> Build a prediction model for Salary_hike
+
+------------------------------------------------------------
+
+
+Build a simple linear regression model by performing EDA and do necessary transformations and select the best model using R or Python.
+
+
+
+ Ans:
+ ->The simple linear regression model for Delivery_Ttime and Salary_hike was built.
+-> By observing  R2 score of each model, we conclude that the Salary_hike  is the best model, with R2 score = 0.9569 = 95.69%.
